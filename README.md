@@ -48,7 +48,7 @@
 ### 1) Pair with the PC (no IP typing) 🔍
 1. Start **WinAgent** on your PC 🖥️
 2. Open **WinAgent Bridge** on your phone 📲
-3. Tap **“PC Bul”** (Find PC)
+3. Tap **“Scan”** to start discovery
 
 The app broadcasts a discovery packet and waits for WinAgent to reply.
 
@@ -176,7 +176,7 @@ Sent on each notification **posted** or **removed**:
 
 ## 🧯 Troubleshooting
 
-### ❌ “PC Bul” can’t find anything
+### ❌ “Scan” can’t find anything
 - Phone + PC must be on the **same Wi‑Fi/LAN** 📶
 - Guest Wi‑Fi / AP isolation can block broadcast 🚫
 - Check Windows Firewall rules for UDP `45151` / `45152` 🔥
